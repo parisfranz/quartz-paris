@@ -208,10 +208,9 @@ a {
       grid-area: grid-sidebar-right;
       margin-right: 0;
       flex-direction: column;
-      @media all and ($desktop){
-        width: 500px;
-      }
-     
+      // @media all and ($desktop){
+      //   width: 500px;
+      // }  
       @media all and ($mobile) {
         margin-left: inherit;
         margin-right: inherit;
