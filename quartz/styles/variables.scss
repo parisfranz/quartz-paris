@@ -56,7 +56,7 @@ $tabletGrid: (
 // );
 $desktopGrid: (
   templateRows: "auto auto auto",
-  templateColumns: "auto auto auto auto",
+  templateColumns: "#{$sidePanelWidth} #{$sidePanelWidth} #{$sidePanelWidth} #{$sidePanelWidth}",
   rowGap: "5px",
   columnGap: "5px",
   templateAreas:
