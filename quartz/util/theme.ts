@@ -1,6 +1,8 @@
 export interface ColorScheme {
   light: string
   lightgray: string
+  red: string
+  green: string
   gray: string
   darkgray: string
   dark: string
